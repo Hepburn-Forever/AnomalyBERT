@@ -1,7 +1,7 @@
 # AnomalyBERT: Transformer-based Anomaly Detector
 
 This is the code for **Self-supervised Transformer for Time Series Anomaly Detection using Data Degradation Scheme**.
-
+## Paper：https://arxiv.org/pdf/2305.04468v1.pdf
 ## Installation
 
 Please clone our repository at `path/to/repository/` and install the packages in `requirements.txt`.
